@@ -17,3 +17,5 @@ To save your wallet, copy and paste the following into dev-wallet.json file:
 console.log("run > 'touch dev-wallet.json' in your terminal to create the json file");
 
 
+// [26,107,240,...162,75,72]
+// ALZN39CyyqkgjJEyLBt9rhvepG2VrWiTMVsXms6JbLRm

@@ -23,3 +23,5 @@ const connection = new Connection("https://api.devnet.solana.com");
         console.error(`Oops, something went wrong: ${e}`)
     }
 })();
+
+// https://explorer.solana.com/tx/4MfKHMDRVKxHizYzvfAdbtQkp1DhbH7cYEQXAZDsa8YqN7DLgdMeTbz3b9Z5ApkERuKB7CoTiVJvn7oQYSoocEs4?cluster=devnet

@@ -1,0 +1,4 @@
+node_modules/
+dev-wallet.json
+.env
+*wallet.json
